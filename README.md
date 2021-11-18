@@ -1,6 +1,6 @@
 -Hi, I’m @devonwigle
 
--I am learning about front end coding
+-I am learning front end coding
 
 -I’m currently learning JavaScript, and a bit of CSS, HTML, NodeJS, React, and Redux
 
